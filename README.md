@@ -23,7 +23,7 @@ All programs are implemented in Java to strengthen conceptual understanding and 
 3. Matrix Multiplication
 4. Matrix Transpose
 
-### 4. Singly & Doubly Linked List Operations
+### 4. Doubly Linked List Operations
 1. Insert a node at the beginning
 2. Insert a node at the end
 3. Insert a node at a specific position
