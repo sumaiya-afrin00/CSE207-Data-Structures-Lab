@@ -1,71 +1,84 @@
 # CSE207 – Data Structures Lab (Java)
 
-# Overview
+## 1. Overview
 This repository contains academic implementations of fundamental Data Structures and Algorithms developed as part of the CSE207 course.
-All programs are implemented in Java for learning and practice purposes.
+All programs are implemented in Java to strengthen conceptual understanding and practical skills.
 
-# Programming Language
+## 2. Programming Language
 - Java
 
-# Experiments Included
+## 3. List of Experiments
 
-# 1. Searching Algorithms
-   - Linear Search
-   - Binary Search
+### 1. Searching Algorithms
+1. Linear Search
+2. Binary Search
 
-# 2. Sorting Algorithms
-   - Bubble Sort
-   - Selection Sort
+### 2. Sorting Algorithms
+1. Bubble Sort
+2. Selection Sort
 
-# 3. Matrix Operations
-   - Matrix Addition
-   - Matrix Subtraction
-   - Matrix Multiplication
-   - Matrix Transpose
+### 3. Matrix Operations
+1. Matrix Addition
+2. Matrix Subtraction
+3. Matrix Multiplication
+4. Matrix Transpose
 
-# 4. Singly Linked List Operations
-   - Insert at beginning
-   - Insert at end
-   - Insert at a specific position
-   - Delete from beginning
-   - Delete from end
-   - Delete from a specific position
-   - Traverse and display
+### 4. Singly & Doubly Linked List Operations
+1. Insert a node at the beginning
+2. Insert a node at the end
+3. Insert a node at a specific position
+4. Delete a node from the beginning
+5. Delete a node from the end
+6. Delete a node from a specific position
+7. Traverse and display the list
 
-# 5. Stack Operations
-   - Push
-   - Pop
-   - Peek
+### 5. Stack Operations
+1. Push
+2. Pop
+3. Peek
+4. Display stack elements
+
+### 6. Stack Applications
+1. Infix to Postfix conversion
+2. Postfix expression evaluation
+
+### 7. Queue Operations
+1. Linear Queue
+   - Enqueue
+   - Dequeue
+   - Display
+2. Circular Queue
+   - Enqueue
+   - Dequeue
    - Display
 
-# 6. Stack Applications
-   - Infix to Postfix conversion
-   - Postfix expression evaluation
+### 8. Recursive Functions
+1. Factorial of a number
+2. Fibonacci series
+3. Print numbers from 1 to 100 in reverse order
+4. Print the word "JAVA" 100 times
+5. Palindrome check
 
-# 7. Queue Operations
-   - Linear Queue (Enqueue, Dequeue, Display)
-   - Circular Queue (Enqueue, Dequeue, Display)
+### 9. Binary Search Tree (BST) Operations
+1. Insert an element
+2. Delete an element
+3. Search an element
+4. Tree Traversals
+   - Inorder
+   - Preorder
+   - Postorder
+   - Level Order
 
-# 8. Recursive Functions
-   - Factorial
-   - Fibonacci
-   - Reverse number printing
-   - Print "JAVA" 100 times
-   - Palindrome check
+### 10. Graph Operations
+1. Breadth First Search (BFS)
+2. Depth First Search (DFS)
 
-# 9. Binary Search Tree (BST)
-   - Insert
-   - Delete
-   - Search
-   - Tree traversals (Inorder, Preorder, Postorder, Level Order)
+## 4. Repository Structure
+The repository is organized into topic-wise folders.
+Each folder contains Java programs related to the corresponding experiment for clarity and maintainability.
 
-# Repository Structure
-Programs are organized into topic-wise folders for better readability and maintenance.
-
-# Purpose
-- Academic laboratory practice
-- Strengthening fundamentals of Data Structures and Algorithms
-- Reference for revision and interviews
-- Only for academic and learning purposes
-- Not optimized for production use.
+## 5. Purpose
+1. Academic laboratory practice
+2. Building a strong foundation in Data Structures and Algorithms
+3. Reference for revision and future technical interviews
 
