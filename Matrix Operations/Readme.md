@@ -23,10 +23,16 @@ These implementations are developed for **academic lab practice** to understand 
    - Useful for various mathematical and computational applications.
 
 **Files Included**
-- **Operations.java**
+- **Addition.java**
+- **Sub.java**
+- **Multiplication.java**
+- **Transpose.java**
 - **Main.java**
 
 **Purpose**
 - To understand matrix representation using 2D arrays  
 - To practice nested loops and array indexing in Java  
 - To strengthen logical thinking for mathematical operations
+
+**Note**  
+These programs are written **strictly for academic and learning purposes** and are not optimized for production use.
