@@ -1,4 +1,4 @@
-**2. Sorting Algorithms**
+** Sorting Algorithms**
 
 **Overview**  
 This folder contains Java implementations of basic sorting algorithms.  
