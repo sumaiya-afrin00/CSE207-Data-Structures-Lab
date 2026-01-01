@@ -17,8 +17,10 @@ These programs are developed for **academic lab practice** to understand how sor
    - Still inefficient for large datasets.
 
 **Files Included**
-- **BubbleSort.java**
-- **SelectionSort.java**
+- **BubbleSorting.java**
+- **MainOfBubbleSort.java**
+- **SelectionSorting.java**
+- **MainOfSelectionSort.java**
 
 **Purpose**
 - To understand the working of basic sorting techniques  
