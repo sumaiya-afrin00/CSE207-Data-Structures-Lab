@@ -1,111 +1,75 @@
-# CSE207-Data-Structures-Lab
-CSE207 – Data Structures Lab (Java)
-📌 Overview
+# CSE207 – Data Structures Lab (Java)
 
-This repository contains academic lab implementations of core Data Structures and Algorithms as part of the CSE207 course.
-All programs are implemented in Java to understand fundamental data structure concepts.
+# Overview
+This repository contains academic implementations of fundamental Data Structures and Algorithms developed as part of the CSE207 course.
+All programs are implemented in Java for learning and practice purposes.
 
-🧑‍💻 Language Used
+# Programming Language
+- Java
 
-Java
+# Experiments Included
 
-📚 Topics Covered
+# 1. Searching Algorithms
+   - Linear Search
+   - Binary Search
 
-Searching Algorithms
+# 2. Sorting Algorithms
+   - Bubble Sort
+   - Selection Sort
 
-Linear Search
+# 3. Matrix Operations
+   - Matrix Addition
+   - Matrix Subtraction
+   - Matrix Multiplication
+   - Matrix Transpose
 
-Binary Search
+# 4. Singly Linked List Operations
+   - Insert at beginning
+   - Insert at end
+   - Insert at a specific position
+   - Delete from beginning
+   - Delete from end
+   - Delete from a specific position
+   - Traverse and display
 
-Sorting Algorithms
+# 5. Stack Operations
+   - Push
+   - Pop
+   - Peek
+   - Display
 
-Bubble Sort
+# 6. Stack Applications
+   - Infix to Postfix conversion
+   - Postfix expression evaluation
 
-Selection Sort
+# 7. Queue Operations
+   - Linear Queue (Enqueue, Dequeue, Display)
+   - Circular Queue (Enqueue, Dequeue, Display)
 
-Matrix Operations
+# 8. Recursive Functions
+   - Factorial
+   - Fibonacci
+   - Reverse number printing
+   - Print "JAVA" 100 times
+   - Palindrome check
 
-Addition
+# 9. Binary Search Tree (BST)
+   - Insert
+   - Delete
+   - Search
+   - Tree traversals (Inorder, Preorder, Postorder, Level Order)
 
-Subtraction
+# 10. Graph Operations
+    - Breadth First Search (BFS)
+    - Depth First Search (DFS)
 
-Multiplication
+# Repository Structure
+Programs are organized into topic-wise folders for better readability and maintenance.
 
-Transpose
+# Purpose
+- Academic laboratory practice
+- Strengthening fundamentals of Data Structures and Algorithms
+- Reference for revision and interviews
+- Only for academic and learning purposes
+- Not optimized for production use.
 
-Singly Linked List
-
-Insert at beginning
-
-Insert at end
-
-Insert at a specific position
-
-Delete from beginning
-
-Delete from end
-
-Delete from a specific position
-
-Traversal
-
-Stack
-
-Push
-
-Pop
-
-Peek
-
-Display
-
-Stack Applications
-
-Infix to Postfix conversion
-
-Postfix expression evaluation
-
-Queue
-
-Linear Queue
-
-Circular Queue
-
-Recursion
-
-Factorial
-
-Fibonacci
-
-Reverse number printing
-
-Repeated string output
-
-Palindrome check
-
-Binary Search Tree (BST)
-
-Insert
-
-Delete
-
-Search
-
-Tree traversals (Inorder, Preorder, Postorder, Level order)
-
-
-📁 Repository Structure
-
-Programs are organized into folders based on topics for better readability and easy navigation.
-
-🎯 Purpose
-
-Academic lab practice
-
-Building strong foundations in Data Structures
-
-Revision and reference for future courses and interviews
-
-⚠️ Note
-
-These programs are written for learning and academic purposes and are not optimized for production use.
