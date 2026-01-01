@@ -20,7 +20,7 @@ These programs are developed for **academic lab practice** to understand the sta
 
 **Files Included**
 - **Operations.java**
-- **Main.java**
+- **Test.java**
 
 **Purpose**
 - To understand the working of the stack data structure  
