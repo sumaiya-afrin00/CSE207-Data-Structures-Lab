@@ -1,7 +1,7 @@
 # CSE207 – Data Structures Lab (Java)
 
 ## 1. Overview
-This repository contains academic implementations of fundamental Data Structures and Algorithms developed as part of the CSE207 course.
+This repository contains academic implementations of fundamental Data Structures developed as part of the CSE207 course.
 All programs are implemented in Java to strengthen conceptual understanding and practical skills.
 
 ## 2. Programming Language
