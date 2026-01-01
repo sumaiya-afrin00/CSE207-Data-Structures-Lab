@@ -59,10 +59,6 @@ All programs are implemented in Java for learning and practice purposes.
    - Search
    - Tree traversals (Inorder, Preorder, Postorder, Level Order)
 
-# 10. Graph Operations
-    - Breadth First Search (BFS)
-    - Depth First Search (DFS)
-
 # Repository Structure
 Programs are organized into topic-wise folders for better readability and maintenance.
 
